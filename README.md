@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 I'm a passionate software developer with a knack for crafting clean, efficient, and maintainable code. I thrive on solving complex problems and turning innovative ideas into reality. When I'm not coding, you'll often find me jotting down my thoughts and insights on my Medium blog.
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajyrajput-2811)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajyrajput-2811&layout=compact)
+-->
 
 🌐 Find Me Online
 ## Get in Touch
