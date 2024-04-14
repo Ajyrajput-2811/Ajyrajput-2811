@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a passionate software developer with a knack for crafting clean, efficient, and maintainable code. I thrive on solving complex problems and turning innovative ideas into reality. When I'm not coding, you'll often find me jotting down my thoughts and insights on my Medium blog.
+
+🌐 Find Me Online
+
+Medium: https://medium.com/@rajputajy2811
+LinkedIn: https://www.linkedin.com/in/ajayrajput28/
+GitHub: You're already here! Feel free to explore my repositories.
+
 <!--
 **Ajyrajput-2811/Ajyrajput-2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
